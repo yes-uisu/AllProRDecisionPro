@@ -3,4 +3,4 @@ Do you think there will be a problem? :)
 
 Question.md list the questions that will be transformed.
 
-Under the Solution directory is the specific transformation scheme of the problem. The filename in this directory corresponds to the issue number. For example, the file corresponding to '1.Integer Factorization' in this directory is 1.md.
+Under the Solutions directory is the specific transformation scheme of the problem. The filename in this directory corresponds to the issue number. For example, the file corresponding to '1.Integer Factorization' in this directory is 1.md.
